@@ -1,2 +1,2 @@
 # plenty
-  This project provide a enviroment for data scientist through docker
+  This project provide a enviroment for data scientist through docker.
